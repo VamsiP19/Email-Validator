@@ -21,4 +21,4 @@ A simple web application that checks if an email addresses is valid or not.
 2. The validation result will be displayed below.
 
 
-https://github.com/user-attachments/assets/28d95728-65f2-4693-8830-5c4212b671e0
+[https://github.com/user-attachments/assets/28d95728-65f2-4693-8830-5c4212b671e0](https://github.com/user-attachments/assets/190110d3-8e2f-4a7e-8fbb-c48c8a38c3bd)
