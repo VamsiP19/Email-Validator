@@ -1,6 +1,6 @@
 # Email-Validator
 **Description:**
-A simple web application that checks if an email addresses is valid or not using JavaScript. 
+A simple web application that checks if an email addresses is valid or not. 
 
 **Features:**
 * Real-time validation
